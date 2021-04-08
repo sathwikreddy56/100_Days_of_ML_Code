@@ -1,0 +1,49 @@
+Good reference:- 
+1.https://www.kaggle.com/annavictoria/ml-friendly-public-datasets
+
+
+Linear Regression :-
+    learning links:
+        https://intellipaat.com/blog/what-is-linear-regression/
+        https://datatofish.com/multiple-linear-regression-python/
+**  1.xy cordinate prediction :-                                   (linear regression)
+        code     :https://www.kaggle.com/harrisonseby/linear-regression
+        dataset  :/DATASETS/Linear Regression/xy cordinate/test,train
+**  2.carprice prediction :-                                       (multiple linear regression)
+        project  :DATASETS/Linear Regression/car-price/Car-Price-Prediction
+    3.NewYork house price prediction :-                            (multiple linear regression)
+        code     :https://www.kaggle.com/saswataroy09/new-york-house-price-prediction
+        dataset  :/DATASETS/Linear Regression/nyc-rolling-sales.csv
+
+Logistic Regression :-
+**  1.Wine quality prediction
+        code     :https://www.kaggle.com/akouaorsot/wine-quality-classification-from-scratch
+        dataset
+    2. chance of selection:-                                        (binary logistic regression)
+        website  :https://datascience.foundation/sciencewhitepaper/understanding-logistic-regression-with-python-practical-guide-1
+        dataset  :/DATASETS/Logistic Regression/Admission_Predict_Ver1.1.csv
+    3. diabetes prediction:-
+        code     :https://www.kaggle.com/dskagglemt/pima-indians-diabetes-database-version1
+        dataset  :/DATASETS/Logistic Regression/diabetes.csv
+    4.Employees Attrition analysis:-
+        kaggle   :https://www.kaggle.com/junglisher/employees-attrition-analysis
+    5.recruitment yes or no:-                              (Hard)
+        kaggle   :https://www.kaggle.com/lakshmikalyan/lead-scoring-x-online-education?select=Leads+X+Education.csv
+    
+K nearest neighbours :-
+    learning links:-
+        https://github.com/CihanBosnali/K-Nearest-Neighbors-without-ML-libraries/blob/master/KNN-without-ML-libraries.ipynb
+        https://machinelearningmastery.com/tutorial-to-implement-k-nearest-neighbors-in-python-from-scratch/
+
+    1. Customer classification:-
+        kaggle   : https://www.kaggle.com/prathamtripathi/customersegmentation/code
+    2.Salary prediction:-
+        kaggle   :https://www.kaggle.com/wenruliu/adult-income-dataset
+ 
+
+Artificial neural networks:-
+    1.number sign recognition :-
+        code     :https://www.kaggle.com/kanncaa1/deep-learning-tutorial-for-beginners
+        dataset  :https://www.kaggle.com/ardamavi/sign-language-digits-dataset
+    2.Cat or not :-                                                 (scratch)
+        kaggle   :https://www.kaggle.com/johntharian/cats-vs-non-cats
