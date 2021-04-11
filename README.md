@@ -25,12 +25,21 @@
 
 ### Day 2: April 10, 2020 (Linear Regression in c)
 **Today's Progress**: 
-    1. Reading csv files in c
-    2. Normalizing the dataset in c 
-    3. Functions related to calculations manually
-    4. completed linear regression algorithim implementation from scratch in C language
+    1. Reading csv files in C
+    2. Using Structures in C
+    3. Normalizing the dataset in C 
+    4. Functions related to calculations manually
+    5. completed linear regression algorithim implementation from scratch in C language
     
 **Issues**
     1. C file create is not stable while loading the data to array the data is corrupt sometimes need to understan why this happens.
 
 **Thoughts:** Numpy library inbuild functions are easy to use but effort to write them in c is the real challenge
+
+### Day 3: April 11, 2020 (Linear Regression [example-2])
+**Today's Progress**: 
+    1. 1D Linear regression 
+    2. Understanding z-score normalization and r2_score in linear regression
+    3. Search for new and better implementation of Ml Algorithms 
+
+**Thoughts:** Deviating from the current apporach .As the planned schedule is too overwhelming

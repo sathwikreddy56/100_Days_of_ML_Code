@@ -1,6 +1,6 @@
 Good reference:- 
 1.https://www.kaggle.com/annavictoria/ml-friendly-public-datasets
-
+2.https://github.com/natiqvahabov/1000-days-ai.git
 
 Linear Regression :-
     learning links:
