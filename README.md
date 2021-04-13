@@ -50,6 +50,6 @@
 
 **Thoughts:** Uderstanding basics from scratch is very important for aplication of algorithms .So decided to get a few days off coding track and indulge in learning the algorithms the reference books are included in books dir.
 
-
-
- 
+### Day 5: April 13, 2020 (Reading Material)
+**Today's Progress**: 
+    Deep learning course in NPTEL Week-1 (conitunation , NPTEL Week-2) 
