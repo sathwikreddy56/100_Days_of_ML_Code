@@ -2,6 +2,10 @@ Good reference:-
 1.https://www.kaggle.com/annavictoria/ml-friendly-public-datasets
 2.https://github.com/natiqvahabov/1000-days-ai.git
 
+Courses:-
+1. https://onlinecourses.nptel.ac.in/noc21_cs35/preview
+
+
 Linear Regression :-
     learning links:
         https://intellipaat.com/blog/what-is-linear-regression/
