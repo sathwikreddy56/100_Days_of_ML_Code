@@ -52,4 +52,8 @@
 
 ### Day 5: April 13, 2020 (Reading Material)
 **Today's Progress**: 
-    Deep learning course in NPTEL Week-1 (conitunation , NPTEL Week-2) 
+    Deep learning course in NPTEL Week-1 (contiunation ),NPTEL Week-2.
+
+### Day 6: April 14, 2020 (Reading Material)
+**Today's Progress**: 
+    Deep learning course in NPTEL Week-2
