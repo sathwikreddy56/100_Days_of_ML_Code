@@ -61,3 +61,7 @@
 ### Day 7: April 15, 2020 (Reading Material)
 **Today's Progress**: 
     Deep learning course in NPTEL Week-3
+
+### Day 8: April 16, 2020 (Hackathon)
+**Today's Progress**: 
+    1.Attempting machine learning hackathon of Geoffrey Hinton Fellowsip by univ.ai 
