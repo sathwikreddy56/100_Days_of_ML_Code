@@ -77,4 +77,8 @@
 **Today's Progress**: 
     1. Implementation of Decision Tree from a lecture
 
+### Day 11: April 19, 2020 (Hackathon)
+**Today's Progress**: 
+    1. GHF hackathon submitted with 55% acccuracy 
+    2. Understaning how to select features from data set using Information Gain and GINI index
 
