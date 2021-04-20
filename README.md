@@ -72,3 +72,9 @@
     2. Understaning Random Forests 
 
 **Thoughts:** When the data has very less correlation or huge dataset with step dependency then usage of decision tree is very useful
+
+### Day 10: April 18, 2020 (Implementation od DT)
+**Today's Progress**: 
+    1. Implementation of Decision Tree from a lecture
+
+
