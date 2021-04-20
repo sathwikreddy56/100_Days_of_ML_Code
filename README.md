@@ -65,3 +65,10 @@
 ### Day 8: April 16, 2020 (Hackathon)
 **Today's Progress**: 
     1.Attempting machine learning hackathon of Geoffrey Hinton Fellowsip by univ.ai 
+
+### Day 9: April 17, 2020 (Understaing of DT )
+**Today's Progress**: 
+    1. Learning about Decision Tree
+    2. Understaning Random Forests 
+
+**Thoughts:** When the data has very less correlation or huge dataset with step dependency then usage of decision tree is very useful
